@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/nav_bo_home"
+        android:enabled="true"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="HOME"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/nav_bo_add"
+        android:enabled="true"
+        android:icon="@drawable/ic_add_box_black_24dp"
+        android:title="STORY"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/nav_bo_like"
+        android:enabled="true"
+        android:icon="@drawable/ic_favorite_black_24dp"
+        android:title="LIKE"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/nav_bo_coslist"
+        android:enabled="true"
+        android:icon="@drawable/ic_find_in_page_black_24dp"
+        android:title="COSMETICS"
+        app:showAsAction="ifRoom" />
+</menu>

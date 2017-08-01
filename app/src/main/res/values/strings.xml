@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Monstar_lab_test</string>
+    <string name="signed_in_fmt">Signed in as: %s</string>
+</resources>
